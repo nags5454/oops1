@@ -1,0 +1,69 @@
+
+
+	Qualifiers
+		const
+		volatile
+		
+		int x;
+		const int x =9;
+		
+		
+		volatile int x;
+		
+		const volatile int x;
+		
+		
+		bool
+			true
+			false
+	
+	Derived Datatypes
+		Array
+		Structure
+		Functions
+		
+		User defined Datatypes
+		Class
+		
+		
+	::	scope resolution operators
+	.*
+	->*
+	.
+	&
+	new 
+	delete
+	
+	
+	Functions
+	
+	Function Prototyping
+		interface - external view of the function
+		
+		Function Name
+		Return type
+		parameter list
+	
+	Function Definition
+		Function Header
+		Body of the function
+	
+	Function Call
+	
+	
+	void fnSumDiff(int, int, int&, int&);
+	
+	
+	Polymorphism in Functions
+		Default Arguments
+			defArg.cpp
+			RepCharDefArg.cpp
+			07DefArgsDeposit.cpp
+			
+		Function Overloading
+			08rotateOverload.cpp
+			FuncOverloadDemo.cpp
+			overloadArea.cpp	
+	
+	
+	
